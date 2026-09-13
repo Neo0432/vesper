@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Slate Green Palette -->
+    <color name="slate_green_20">#FFB5BEBD</color>
+    <color name="slate_green_50">#FF7F918E</color>
+    <color name="slate_green_60">#FF566260</color>
+    <color name="slate_green_80">#FF2B3635</color>
+
+    <!-- Yellow Palette -->
+    <color name="yellow_20">#FFE8E4E1</color>
+    <color name="yellow_40">#FFEFD3BD</color>
+    <color name="yellow_50">#FFD3B072</color>
+    <color name="yellow_60">#FFE7AA51</color>
+</resources>
